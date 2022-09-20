@@ -10,3 +10,12 @@ body {
   background: #1b1523;
   color: #fff;
 }
+
+.front {
+  height: 200px;
+  width: 200px
+}
+.back {
+  height: 200px;
+  width: 200px
+}
