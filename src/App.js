@@ -29,9 +29,9 @@ function App() {
     setTurns(0)
   }
 
-//  Pick between two cards
+//  Pick between two cards and setting choice selection
   const handleChoice = (card) => {
-    console.log(card)
+    choiceOne ? setChoiceTwo(card) : setChoiceOne(card)
   }
 
 
