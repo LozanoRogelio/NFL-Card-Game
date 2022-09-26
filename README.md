@@ -10,7 +10,7 @@ Memory matching game that gives user/player the ability to flip 12 cards and att
 2. Flip a 2nd card
 3. If both cards match they stay flipped up, however, if they do not match they go back to a face down position.
 4. Repeat the process until you match all 6 pairs.
-5. Make sure to get match all 6 pairs in the least amount of turns
+5. Make sure to match all 6 pairs in the least amount of turns
 
 # Reason for Creating
 Have always been big football fan and had some fall inspiration now that the NFL season is kicking off. Wanted to create a game that made me more efficient with React.js and the simplicity of the game intrigues anyone who plays it. Just a simple fun game of memory!
