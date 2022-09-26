@@ -3,7 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Description
-Card matching game that gives user the ability to flip 12 cards and match 2 of the same with the least amount of turns. Cards will stay flipped facing up when matched. 
+Memory matching game that gives user/player the ability to flip 12 cards and attempt to match 2 of the same face cards. Game end once all 6 pairs have been matched and flipped.
+
+# How to Play
+1. Flip 1 card
+2. Flip a 2nd card
+3. If both cards match they stay flipped up, however, if they do not match they go back to a face down position.
+4. Repeat the process until you match all 6 pairs.
+5. Make sure to get match all 6 pairs in the least amount of turns
+
+# Reason For creating
+Have always been big football fan and had some fall inspiration now that the NFL season is kicking off. Wanted to create a game that made me more efficient with React.js and the simplicity of the game intrigues anyone who plays it. Just a simple fun game of memory!
 
 ## Available Scripts
 
